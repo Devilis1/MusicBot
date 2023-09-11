@@ -11,7 +11,7 @@ import tempfile
 import traceback
 import subprocess
 
-from shutil import disk_usage, rmtree
+from shutil import disk_usage, rmtree<
 from base64 import b64decode
 
 try:
